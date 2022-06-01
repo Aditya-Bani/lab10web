@@ -54,6 +54,7 @@ $b->gantiWarna("Hijau");
 $b->tampilWarna();
 ?>
 ```
+
 - Output :
 ![img1](assets/img/1.PNG)
 
@@ -123,5 +124,6 @@ $form->displayForm();
 echo "</body></html>";
 ?>
 ```
+
 - Output
 ![img1](assets/img/2.PNG)
